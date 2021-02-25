@@ -2,15 +2,19 @@
 
 Projet numpy/pandas regroupant :
 
+Formulations mathématiques et projet complet disponible en pdf.
+
 ## Modèle de Black & Scholes et méthode de Monte Carlo 
-  - Formulation de la formule fermée de Black & Scholes et les principales greeks associées. 
-  - Définition de la méthode de Monte-Carlo
-  - Application Call & Put - Classe MonteCarlo (parente) + Classe MonteCarloEuropean
-  - Application de la méthode de Monte-Carlo pour un panier d'actifs, max/min/mean call/put sur le panier | Classe MonteCarloBasket
+  - <img src="img/python.png" width="20"> Class BS : Formule fermée de Black & Scholes et les principales greeks associées
+  - <img src="img/python.png" width="20"> Class MonteCarlo (parente) | Class MonteCarloEuropeanApplication : Monte-Carlo pour Call & Put 
+  - <img src="img/python.png" width="20"> Class MonteCarloBasket : Application Monte-Carlo pour un panier d'actifs
   
 ## Pricing d'options asiatiques et réduction de variance par Monte Carlo
-  - 
-- Options à barrières Up&In, Down&Out
+  - <img src="img/python.png" width="20"> Class MonteCarloPathDependant : dates fractions numérique ou TimeStamp pandas pour pricing (précision seconde) 
+  - <img src="img/python.png" width="20"> Class MonteCarloAsian
+    - exemple output :
+    
+## Pricing Options à barrières Up&In, Down&Out
 - 
 
 
