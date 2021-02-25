@@ -12,7 +12,7 @@ Formulations mathématiques et projet complet disponible en pdf.
 ## Pricing d'options asiatiques et réduction de variance par Monte Carlo
   - <img src="img/python.png" width="20"> Class MonteCarloPathDependant : dates fractions numérique ou TimeStamp pandas pour pricing (précision seconde) 
   - <img src="img/python.png" width="20"> Class MonteCarloAsian
-    - exemple output :
+    - exemple output : <img src="img/ex_output.png" width="2000">
     
 ## Pricing Options à barrières Up&In, Down&Out
 - 
