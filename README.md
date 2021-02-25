@@ -14,7 +14,7 @@
   - <img src="img/python.png" width="20"> Class MonteCarloBS_Basket : Application Monte-Carlo pour un panier d'actifs
   
 ## Pricing d'options asiatiques et réduction de variance par Monte Carlo
-  - <img src="img/python.png" width="20"> Class MonteCarloBSPathDependant : dates fractions numérique ou TimeStamp pandas pour pricing (précision seconde) 
+  - <img src="img/python.png" width="20"> Class MonteCarloBSPathDependant : dates en fractions numérique ou de type TimeStamp pandas pour pricing (précision seconde) 
   - <img src="img/python.png" width="20"> Class MonteCarloBS_Asian
     - exemple output : <img src="img/ex_output.png" width="2000">
     
