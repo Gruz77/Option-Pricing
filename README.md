@@ -23,6 +23,7 @@
 - Réduction de variance par Monte Carlo Conditionnel
 
 ## EDP pour Black & Scholes
+- Résolution de l'équation de Black & Scholes par EDP
 
 ## EDS pour Black & Scholes et modèle de Heston
 - <img src="img/python.png" width="20"> Class EDS | Class EDS_BS : approximation de la solution de BS par schéma d'Euler et de Milstein
