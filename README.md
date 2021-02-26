@@ -1,4 +1,4 @@
-# OptionPricing 
+# Option-Pricing 
 
 
 <img src="img/sim_path_1000.png" width="2000"> 
