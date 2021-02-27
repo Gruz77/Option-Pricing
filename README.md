@@ -13,10 +13,11 @@
   - <img src="img/python.png" width="20"> Class MonteCarloBS (parente) | Class MonteCarloEuropeanApplication : Monte-Carlo pour Call & Put 
   - <img src="img/python.png" width="20"> Class MonteCarloBS_Basket : Application Monte-Carlo pour un panier d'actifs
   
-## Pricing d'options asiatiques et réduction de variance par Monte Carlo
+## Pricing d'options asiatiques et réduction de variance
   - <img src="img/python.png" width="20"> Class MonteCarloBSPathDependant : dates en fractions numérique ou de type TimeStamp pandas pour pricing (précision seconde) 
   - <img src="img/python.png" width="20"> Class MonteCarloBS_Asian
     - exemple output : <img src="img/ex_output.png" width="2000">
+  - Réduction de variance par variables antithétiques et de contrôle
     
 ## Pricing Options à barrières Up&In, Down&Out
 - <img src="img/python.png" width="20"> Class MonteCarloBS_UpAndOut | Class MonteCarloBS_DownAndIn
