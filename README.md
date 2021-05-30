@@ -1,5 +1,5 @@
 
-  Option 
+# <center> Option Pricing </center>
 [<h1 align='center'> ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gruz77/Option-Pricing/blob/main/Option_pricing.ipynb)</h1>
 
 
