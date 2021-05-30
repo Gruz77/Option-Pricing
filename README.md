@@ -5,9 +5,9 @@
 <img src="img/sim_path_1000.png" width="2000"> 
 
 
-- Numpy/Pandas
+Coded in **Numpy/Pandas**
 
-- Mathematical formulations and full project available in pdf.
+Mathematical formulations and full project available in pdf.
 
 ## Black & Scholes and Monte Carlo methods
   - *Class BS* : Black & Scholes closed formula and the main associated greeks
