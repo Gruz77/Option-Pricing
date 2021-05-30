@@ -1,4 +1,5 @@
-<h1 align='center'> Option </h1>[<h1 align='center'> ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gruz77/Option-Pricing/blob/main/Option_pricing.ipynb)</h1>
+<h1 align='center'> Option </h1>
+[<h1 align='center'> ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gruz77/Option-Pricing/blob/main/Option_pricing.ipynb)</h1>
 
 
 <img src="img/sim_path_1000.png" width="2000"> 
