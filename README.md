@@ -1,6 +1,6 @@
 # Option-Pricing 
 
-<p style="text-align: center;">[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gruz77/Option-Pricing/blob/main/Projet_OptionPricing.ipynb</p>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gruz77/Option-Pricing/blob/main/Projet_OptionPricing.ipynb
 
 <img src="img/sim_path_1000.png" width="2000"> 
 
