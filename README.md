@@ -5,7 +5,7 @@
 <img src="img/sim_path_1000.png" width="2000"> 
 
 
-- **Numpy/Pandas**
+- Numpy/Pandas
 
 - Mathematical formulations and full project available in pdf.
 
